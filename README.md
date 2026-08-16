@@ -24,8 +24,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "YourNetworkName";
-char pass[] = "YourPassword";
+char ssid[] = "OPPO A54";
+char pass[] = "1234567890";
 
 Servo servo;
 
