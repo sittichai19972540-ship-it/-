@@ -1,13 +1,11 @@
-# -
-ตู้จ่ายยาอัตโนมัติผู้ป่วยอัลไซเมอร์
 
-/*************************************************************
+ตู้จ่ายยาอัตโนมัติผู้ป่วยอัลไซเมอร์
 
   Rotate a servo using a slider!
 
   App dashboard setup:
     Slider widget (0...180) on V3
- *************************************************************/
+
 
 /* Fill-in information from Blynk Device Info here */
 #define BLYNK_TEMPLATE_ID           "TMPL6hxr5hWWB"
