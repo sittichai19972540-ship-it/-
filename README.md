@@ -1,4 +1,3 @@
-
 ตู้จ่ายยาอัตโนมัติผู้ป่วยอัลไซเมอร์
 
   Rotate a servo using a slider!
